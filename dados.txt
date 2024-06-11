@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Andresa
+-Profissão: Biotecnologista
+-Cidade: São Carlos
+-O que faz nas horas vaga: Gosto de correr
+-Feedback sobre o curso Qualidade de Software: A didática está ótima! 
+-Feedback sobre a plataforma de estudo da EBAC: Uma ótima plataforma para estudar, mas é preciso ter disciplina
 
 Obrigado!!!
 
